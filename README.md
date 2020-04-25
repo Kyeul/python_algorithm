@@ -1,3 +1,1 @@
-# python_language_practice
-
-백준 알고리즘 저장소
+# 파이썬으로 풀이한 알고리즘 
